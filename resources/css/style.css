@@ -1,0 +1,61 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.banner {
+text-align: center;
+  background-image: url("../images/building.png");
+  width: auto;
+  height: auto;
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+.links {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+.bar {
+  color: white;
+  background-image: url("../images/building.png");
+
+}
+.images img{
+  display: block;
+  margin: 0 auto;
+
+}
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footer a, .banner a, .footer p {
+  color: white;
+  text-align: left;
+}
